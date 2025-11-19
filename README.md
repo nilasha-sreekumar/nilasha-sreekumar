@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**nilasha-sreekumar/nilasha-sreekumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ My name is Nilasha Sreekumar. I am a grade 10 student at Holy Trinity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Technical Skills**
+
+:computer:Programing Languages:
+- HTML/CSS/JavaScript
+- Pyhthon
+
+:gear:Operating Systems:
+- Windows
+- ChromeOS
+
+🛠️:Tools:
+- GitHub
+- VS Code
+- Google Colab
+
+**Projects/Repositories**
+1. HTML Tourist Guide Website (Discover Spain)
+
+  - This webiste is a guide to the best attractions, stays and foods across Spain.
+
+  - HTML/CSS/JavaScript
+
+[Discover Spain](https://nilasha-sreekumar.github.io/ICD2O/)
