@@ -43,10 +43,18 @@
 
     [Student Tools App](https://colab.research.google.com/drive/19XXnRAcHmZrcT_3Kei31CZFwxf6xOG7s#scrollTo=kwB0qTfsocTx)
 
-4. Student Tools App
+4. Minesweeper Validation Function
 
-  - This app helps students with studies and guides them to become successful in school. It includes tools such as a grade       average calculatro, a study planner, daily motivational quotes and a course predictor.
+  - This function is used to validate if a minesweeper grid that the user inputed is valid, meaning if the middle cell is equal to the number of bombs in the surrounding cells. This function will work with 3x3, 4x4, and 5x5 grids. 
 
     Skills used: Python
 
-    [Student Tools App](https://colab.research.google.com/drive/19XXnRAcHmZrcT_3Kei31CZFwxf6xOG7s#scrollTo=kwB0qTfsocTx)
+    [Minesweeper Validation Function](https://colab.research.google.com/drive/1bW4E7PnMP_dAj6c2OKHksq2Yekzj0S6X)
+
+5. Pizza Palooza
+
+  - This is a restaurant application that asks the user for a pizza size and number of toppings. Then, with this information the program is set to calculate the total price including discounts and tax, and display a proper receipt with a time and date staml. 
+
+    Skills used: Python/Flowcharts/Storyboards
+
+    [Pizza Palooza](https://colab.research.google.com/drive/1bW4E7PnMP_dAj6c2OKHksq2Yekzj0S6X?usp=sharing )
